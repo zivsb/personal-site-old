@@ -1,0 +1,43 @@
+.b {
+    height: 25vh;
+    display: flex;
+    align-items: center;
+}
+
+.b-left{
+    flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  height: 100%;
+}
+
+.b-right{
+    flex: 1;
+    
+}
+
+.CV-Preview {
+    width: 60%;
+    height: 27vh;
+    border-radius: 30px;
+    position: relative;
+    overflow: hidden;
+}
+
+.CV-img{
+    /* vertical-align: ; */
+    height: 80%;
+    /* width: 100%; */
+    object-fit: cover;
+    
+}
+
+.b-right h1{
+    font-weight: 400;
+}
+
+.b-right p{
+    text-align: left;
+}

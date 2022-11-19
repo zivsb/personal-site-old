@@ -1,0 +1,27 @@
+body {
+    background-color: #437F97;
+    color: #FFCBAD;
+    margin: 0px;
+    justify-content: space-between;
+    padding: 0px;
+    
+}
+
+hr {
+    border: none;
+    margin: 1%; 
+    border-radius: 200px;
+}
+
+.box {
+    margin: 1%;
+}
+
+.box1 {
+    margin: 1%;
+    border-radius: 40px;
+    padding: none;
+    overflow: hidden;
+    border-style: none;
+    border-color: none;
+}

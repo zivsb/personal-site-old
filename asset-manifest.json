@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/personal-site/static/css/main.14f49ac0.css",
-    "main.js": "/personal-site/static/js/main.fa51c9a2.js",
+    "main.css": "/personal-site/static/css/main.d5096e4b.css",
+    "main.js": "/personal-site/static/js/main.e1d354d7.js",
     "static/js/787.3ba5e41c.chunk.js": "/personal-site/static/js/787.3ba5e41c.chunk.js",
     "static/media/CroppedHeadshot.jpg": "/personal-site/static/media/CroppedHeadshot.45d8ad9ae517ae1dca80.jpg",
     "static/media/ResumePrev.png": "/personal-site/static/media/ResumePrev.d7b8eea770a9f352d0d8.png",
@@ -12,12 +12,12 @@
     "static/media/CppLab.png": "/personal-site/static/media/CppLab.8b7a50ea21893c9e42ec.png",
     "static/media/ZivWeissmanCV.pdf": "/personal-site/static/media/ZivWeissmanCV.e0f7f3469ca8e34e722b.pdf",
     "index.html": "/personal-site/index.html",
-    "main.14f49ac0.css.map": "/personal-site/static/css/main.14f49ac0.css.map",
-    "main.fa51c9a2.js.map": "/personal-site/static/js/main.fa51c9a2.js.map",
+    "main.d5096e4b.css.map": "/personal-site/static/css/main.d5096e4b.css.map",
+    "main.e1d354d7.js.map": "/personal-site/static/js/main.e1d354d7.js.map",
     "787.3ba5e41c.chunk.js.map": "/personal-site/static/js/787.3ba5e41c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.14f49ac0.css",
-    "static/js/main.fa51c9a2.js"
+    "static/css/main.d5096e4b.css",
+    "static/js/main.e1d354d7.js"
   ]
 }

@@ -13,7 +13,7 @@ const Intro = () => {
                     <h1 className="i-name">Ziv Weissman</h1>
                     {/* <h3 className="i-skill-label">Skills:</h3> */}
                     <ul className="i-title">
-                    <li className="i-title-start"><p>I'm interested in {" {"}</p></li>
+                    <li className="i-title-start"></li>
                     <li className="i-title-wrapper">
                              {
                                
@@ -24,7 +24,7 @@ const Intro = () => {
                                     })
                             }
                     </li>
-                    <li className="i-title-start"><p>{"}"}</p></li>
+                    <li className="i-title-start"></li>
                     </ul>
                     <br></br>
                     <div className="i-desc">

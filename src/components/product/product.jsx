@@ -39,19 +39,19 @@ class Product extends Component {
 
     get front() {
         return (
-            <div className="front">
+            <div className="front" onClick={this.toggle}>
                 <h1>{this.state.name}</h1>
-                <img src={require(`../productList/img/${this.state.img}`)} height="200" wdith="200" />
-                <p className="clickable" onClick={this.toggle}>View More</p>
+                <img src={require(`../productList/img/${this.state.img}`)} alt="" className="p-img"/>
+                <p className="clickable">View More</p>
             </div>
         )
     }
 
     get back() {
         return (
-            <div className="back">
+            <div className="back" onClick={this.toggle}>
                 {this.convertDescription(this.state.description)}
-                <a href={this.state.link} target="_blank"><p id="clickable">{this.state.viewMessage}</p></a>
+                <a href={this.state.link} target="_blank" rel="noreferrer"><p id="clickable">{this.state.viewMessage}</p></a>
                 <p className="clickable" onClick={this.toggle}>View Less</p>
             </div>
         )

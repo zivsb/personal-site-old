@@ -10,6 +10,10 @@
 
 }
 
+.p:hover {
+    border: 5px solid #fce8b1;
+}
+
 .p-browser {
     height: 20px;
     border-radius: 20;
@@ -49,4 +53,16 @@ a:link, a:visited, a:active, .clickable {
 
 a:hover, .clickable:hover {
     color: #FAFFFD;
+}
+
+
+.p-img {
+    width: 60%;
+}
+
+@media screen and (max-width: 600px) {
+    .p {
+      width: 40%;
+      height: 20vh;
+    }
 }

@@ -1,6 +1,6 @@
 .p{
     width: 30%;
-    height: 40vh;
+    /* height: 40vh; */
     margin: 20px 10px;
     border: 5px solid #FFBC0A;
     color: #FFBC0A;
@@ -60,9 +60,30 @@ a:hover, .clickable:hover {
     width: 60%;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 1200px) {
     .p {
       width: 40%;
-      height: 20vh;
+      /* height: 600px; */
     }
+
+    
 }
+
+@media screen and (max-width: 600px) {
+    .p {
+      width: 100%;
+      
+    }
+
+
+}
+
+@media screen and (max-width: 300px) {
+    .p {
+      width: 100%;
+      
+    }
+
+
+}
+

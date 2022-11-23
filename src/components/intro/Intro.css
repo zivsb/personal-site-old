@@ -1,6 +1,6 @@
 .i{
     display: flex;
-    height: 50vh;
+    /* height: 50vh; */
     background-color: #437F97;
     color: #FFCBAD;
 }
@@ -81,6 +81,7 @@
     vertical-align: middle;
     object-fit: cover;
     clip-path: polygon(25% 0%, 100% 0%, 100% 100%, 25% 100%, 0% 50%);
+    position: relative;
 }
 
 .i-title-start{
@@ -97,6 +98,7 @@
 @media screen and (max-width: 480px) {
     .i {
       flex-direction: column;
+      height: 70vh;
     }
   
     .i-left-wrapper {
@@ -107,9 +109,20 @@
       text-align: center;
       height: 100%;
     }
-  
-    .i-desc{
-      display: none;
+
+    .i-img{
+        display: none;
     }
+  
+    /* .i-desc{
+      display: none;
+    } */
+
+    /* .i{
+        display: flex;
+        height: 50vh;
+        background-color: #437F97;
+        color: #FFCBAD;
+    } */
     
   }

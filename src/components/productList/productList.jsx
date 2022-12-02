@@ -14,17 +14,17 @@ const ProductList = () => {
         {
             name: "Blockchain from Scratch",
             description: "Programmed a Bitcoin Copy from scratch on Node.js. Awesome learning project to gain insight on backend dev, computer networks, security, and Cryptography.",
-            link: "https://github.com/zivsb",
+            link: "https://github.com/zivsb/blockchain-from-scratch",
             img: "Zivcoin.png",
             viewMessage: "View Github Repo"
 
         },
         {
             name: "C++ Labs",
-            description: "A collection of some of the more complex Labs I've coded in C++ for coursework. Beyond comfortabillity in C++, these demonstrate problem solving skills and general theoritical CS knowledge I've gained through my classes.",
-            link: "https://github.com/zivsb",
+            description: "A collection of some of the more complex Labs I've coded in C++ for coursework. Beyond comfortabillity in C++, these demonstrate problem solving skills and general theoritical CS knowledge I've gained through my classes. For privacy reasons, I can\'t post my solutions publicly but I can still post the publicly available prompts.",
+            link: "https://ucsb-ccs-computing.github.io/F21-1A/",
             img: "CppLab.png",
-            viewMessage: "My Github"
+            viewMessage: "View Prompts"
 
         },
         {

@@ -3,7 +3,7 @@ import headshot from "../../img/CroppedHeadshot.jpg"
 
 
 const Intro = () => {
-    const interests =  ["C++", "Computer Networks", "Unreal Engine", "React", "Node", "Python"];
+    const interests =  ["C++", "React", "Unreal Engine", "Node", "Python", "SQL"];
 
     return (
         <div className="i">

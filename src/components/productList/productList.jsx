@@ -28,11 +28,11 @@ const ProductList = () => {
 
         },
         {
-            name: "This Site!",
-            description: "Made this minimal site for fun in my free time with React. I hope you're enjoying checking it out.",
-            link: "https://github.com/zivsb",
-            img: "WebDev.png",
-            viewMessage: "View Sourcecode"
+            name: "AI Poem Sharing Social Media",
+            description: "Designed and implemented a full stack social media app with authentication to practice cybersecurity principles and further fullstack engineering principles such as databases (MySQL), web authentication tokens, cookies, and complex routing.",
+            link: "https://github.com/zivsb/ai-poem-share",
+            img: "AiPoems.png",
+            viewMessage: "View Github Repo"
 
         },
         {
@@ -44,7 +44,11 @@ const ProductList = () => {
 
         },
         {
-            name: "stub"
+            name: "This Site!",
+            description: "Made this minimal site for fun in my free time with React. I hope you're enjoying checking it out.",
+            link: "https://github.com/zivsb",
+            img: "WebDev.png",
+            viewMessage: "View Sourcecode"
         }
     ];
     return (

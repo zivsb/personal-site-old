@@ -20,11 +20,11 @@ const ProductList = () => {
 
         },
         {
-            name: "C++ Labs",
-            description: "A collection of some of the more complex Labs I've coded in C++ for coursework. Beyond comfortabillity in C++, these demonstrate problem solving skills and general theoritical CS knowledge I've gained through my classes. For privacy reasons, I can\'t post my solutions publicly but I can still post the publicly available prompts.",
-            link: "https://ucsb-ccs-computing.github.io/F21-1A/",
-            img: "CppLab.png",
-            viewMessage: "View Prompts"
+            name: "MIPS Chip Emmulator",
+            description: "I created an emmulator simmlar to SPIM in C++ that emmulates and runs commands in MIPS Assembly.",
+            link: "https://github.com/zivsb/MIPS_emmulator",
+            img: "MIPSEmm.png",
+            viewMessage: "View Github Repo"
 
         },
         {
